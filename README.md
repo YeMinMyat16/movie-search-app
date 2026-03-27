@@ -5,6 +5,11 @@ A fast and responsive movie search application using React, Vite, and the OMDb A
 ## Live Demo
 Check out the live demo here: [CineStream Demo](https://YeMinMyat16.github.io/movie-search-app/)
 
+## Screenshots
+![Screenshot 1](ScreenShots/Screenshot%202026-03-28%20024249.png)
+<br>
+![Screenshot 2](ScreenShots/Screenshot%202026-03-28%20024302.png)
+
 ## Features
 - Search for any movie or TV series using the OMDb API.
 - View movie posters, release years, and IMDB ratings.
